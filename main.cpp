@@ -25,6 +25,5 @@ int main() {
         }
     }
     massOut(mass);
-    massOut(mass);
     return 0;
 }
